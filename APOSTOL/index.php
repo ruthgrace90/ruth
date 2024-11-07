@@ -27,6 +27,29 @@
 	<label>Lastname</label>
 	<input type="text" name="lastname" class="form-control">
 </div>
+
+
+<div class="container">
+	<label>Lastname</label>
+	<input type="text" name="lastname" class="form-control">
+</div>
+
+<div class="container">
+	<label>Age</label>
+	<input type="text" name="age" class="form-control">
+</div>
+
+<div class="container">
+	<label>Address</label>
+	<input type="text" name="address" class="form-control">
+</div>
+<div class="container">
+	<label>Course&Section</label>
+	<input type="text" name="course&section" class="form-control">
+</div>
+
+<button class="SUBMIT">Green</button>
+
 </body>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 </html>
